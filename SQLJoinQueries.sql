@@ -1,5 +1,3 @@
--- Examples from Joey Blue's tutorial from https://www.youtube.com/watch?v=2HVMiPPuPIM
-
 -- Create schema
 CREATE SCHEMA Joins
 
